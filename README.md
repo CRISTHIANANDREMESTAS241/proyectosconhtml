@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -155,3 +156,6 @@
   </div>
 </body>
 </html>
+=======
+# proyectosconhtml
+>>>>>>> 20ec3a95459d479605dbff7f91f1ab3473b3e30f
